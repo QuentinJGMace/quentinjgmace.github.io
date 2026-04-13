@@ -5,7 +5,7 @@ Welcome to my academic page! I am a first-year industrial PhD student at Illuin 
 
 My research focuses on robustness for multi-agent systems. Specifically, I am interested in exploring how we can evaluate and design agentic systems that are robust to perturbations such as adversarial attacks, tool errors or simple mistakes made by individual agents.
 
-[Google Scholar](https://scholar.google.com/citations?user=Dfo-AhsAAAAJ&hl=fr) | [LinkedIn](https://www.linkedin.com/in/quentin-mac%C3%A9/) | Twitter/X : @MaceQuent1
+|[This website]([Google Scholar](https://scholar.google.com/citations?user=Dfo-AhsAAAAJ&hl=fr) | [LinkedIn](https://www.linkedin.com/in/quentin-mac%C3%A9/) | Twitter/X : @MaceQuent1
 
 ---
 
