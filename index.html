@@ -48,12 +48,25 @@
             padding: 40px 30px;
             display: flex;
             flex-direction: column;
+            align-items: center;
+        }
+
+        .profile-photo {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            object-fit: cover;
+            object-position: center top;
+            border: 4px solid rgba(255, 255, 255, 0.25);
+            margin-bottom: 24px;
+            display: block;
         }
 
         .sidebar h1 {
             font-size: 28px;
             margin-bottom: 10px;
             font-weight: 600;
+            text-align: center;
         }
 
         .sidebar .title {
@@ -62,6 +75,7 @@
             color: #bdc3c7;
             margin-bottom: 20px;
             line-height: 1.4;
+            text-align: center;
         }
 
         .sidebar-links {
@@ -228,6 +242,7 @@
 
     <div class="container">
         <aside class="sidebar">
+            <img src="imgs/IMG_20230819_171247806.jpg" alt="Quentin Macé" class="profile-photo">
             <h1>Quentin Macé</h1>
             <p class="title">PhD Student in Multi-Agent Systems<br><br>Illuin Technology &amp; CentraleSupélec (MICS)
                 &amp; University of Grenoble (LIG)</p>
